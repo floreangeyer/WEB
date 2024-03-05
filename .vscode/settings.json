@@ -1,3 +1,8 @@
 {
-    "cSpell.language": "ru-RU,ru"
+    "cSpell.language": "ru-RU,ru",
+    "markdownConverter.ConversionType": [
+        "PDF",
+        "SelfContainedHTML",
+        "HTML"
+    ]
 }
