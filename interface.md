@@ -6,4 +6,4 @@
 * Смена профиля
 * Смена пароля
 
-// LINKhttps://github.com/floreangeyer/WEB/blob/master/podklucenie.md#my-anchor
+// LINK https://github.com/floreangeyer/WEB/blob/master/podklucenie.md#my-anchor
